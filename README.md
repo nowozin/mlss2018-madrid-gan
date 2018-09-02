@@ -6,7 +6,12 @@
 
 ## Slides
 
-[GANs Introduction, PowerPoint, 3 hours, 286MB](http://www.nowozin.net/sebastian/talks/mlss2018/MLSS%202018%20-%20Nowozin%20-%20GANs%20introduction.pptx)
+The total talk duration is 3 hours.
+The PowerPoint version contains animations which unfortunately are not preserved in the PDF version.
+However, the PDF version is much smaller and works across all platforms.
+
+* PowerPoint version: [Introduction, (286MB), pptx](http://www.nowozin.net/sebastian/talks/mlss2018/MLSS%202018%20-%20Nowozin%20-%20GANs%20introduction.pptx)
+* PDF export: [Introduction, 9MB](http://www.nowozin.net/sebastian/talks/mlss2018/MLSS%202018%20-%20Nowozin%20-%20GANs%20introduction.pdf)
 
 ## f-GAN - Univariate Density Estimation
 
