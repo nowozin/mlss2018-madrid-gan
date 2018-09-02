@@ -2,8 +2,11 @@
 # MLSS 2018 - GAN Lecture Materials
 
 * _Author_: Sebastian Nowozin (Sebastian.Nowozin@microsoft.com)
-* _Date_: July 2018
+* _Date_: September 2018
 
+## Slides
+
+[GANs Introduction, PowerPoint, 3 hours, 286MB](http://www.nowozin.net/sebastian/talks/mlss2018/MLSS 2018 - Nowozin - GANs introduction.pptx)
 
 ## f-GAN - Univariate Density Estimation
 
