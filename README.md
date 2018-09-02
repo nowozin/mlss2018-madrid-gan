@@ -6,7 +6,7 @@
 
 ## Slides
 
-[GANs Introduction, PowerPoint, 3 hours, 286MB]("http://www.nowozin.net/sebastian/talks/mlss2018/MLSS 2018 - Nowozin - GANs introduction.pptx")
+[GANs Introduction, PowerPoint, 3 hours, 286MB](http://www.nowozin.net/sebastian/talks/mlss2018/MLSS%202018%20-%20Nowozin%20-%20GANs%20introduction.pptx)
 
 ## f-GAN - Univariate Density Estimation
 
