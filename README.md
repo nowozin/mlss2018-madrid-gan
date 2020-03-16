@@ -11,7 +11,7 @@ The PowerPoint version contains animations which unfortunately are not preserved
 However, the PDF version is much smaller and works across all platforms.
 
 * PowerPoint version: [Introduction, (286MB), pptx](https://1drv.ms/p/s!AniEhJbTwIdrkrp7aTNiSw5kJNRu2Q?e=rdExvW)
-* PDF export: [Introduction, 9MB](http://www.nowozin.net/sebastian/talks/mlss2018/MLSS%202018%20-%20Nowozin%20-%20GANs%20introduction.pdf)
+* PDF export: [Introduction, 9MB](https://1drv.ms/b/s!AniEhJbTwIdrkrpt4Boqd6IDm3uqJQ?e=6wN1nO)
 
 ## f-GAN - Univariate Density Estimation
 
